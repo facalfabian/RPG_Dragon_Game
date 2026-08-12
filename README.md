@@ -6,7 +6,7 @@ Ein browserbasiertes Text-RPG, entwickelt in Vanilla JavaScript (HTML, CSS, JS �
 
 In **Dragon Repeller** schlüpfst du in die Rolle eines Helden, der die Stadt von einem Drachen befreien muss. Auf dem Weg dorthin kannst du im Dorfladen Ausrüstung und Heiltränke kaufen, in der Höhle gegen schwächere Monster kämpfen, um Erfahrung und Gold zu sammeln, und dich schliesslich dem finalen Kampf gegen den Drachen stellen.
 
-**[➡️ Live-Demo spielen](#)** *(Link einfügen, sobald über GitHub Pages gehostet)*
+**[Live-Demo spielen](https://facalfabian.github.io/RPG_Dragon_Game/)**
 
 ## Features
 
@@ -28,8 +28,8 @@ In **Dragon Repeller** schlüpfst du in die Rolle eines Helden, der die Stadt vo
 Da das Projekt keine Abhängigkeiten oder Build-Tools benötigt, reicht es, das Repository zu klonen und die `index.html` im Browser zu öffnen:
 
 ```bash
-git clone https://github.com/dein-username/dein-repo-name.git
-cd dein-repo-name
+git clone https://github.com/facalfabian/RPG_Dragon_Game.git
+cd RPG_Dragon_Game
 open index.html
 ```
 
